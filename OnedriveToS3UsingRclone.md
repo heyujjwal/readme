@@ -246,9 +246,3 @@ After initial setup:
 
 ---
 
-If you want, I can convert this into:
-
-✔ A PDF
-✔ A Confluence page
-✔ A README.md for GitHub
-✔ A flowchart diagram (architecture diagram)
